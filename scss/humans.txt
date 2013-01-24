@@ -1,0 +1,18 @@
+
+/* INFO */
+About this file: http://humanstxt.org/
+
+
+/* TEAM */                            
+Your title: Topher Wilson                          
+Site: http://sprresponsive.com                         
+Twitter: tophermade                            
+Location: Idaho Falls, Idaho, US
+
+
+/* SITE */                            
+Last update: 2013/01/24                           
+Standards: HTML5, CSS3                           
+Components: LESS CSS                        
+Software: Sublime Text 2, git
+
