@@ -1,0 +1,10 @@
+.invoice-to,
+.invoice-from,
+.invoice-status {
+  float: left;
+  width: 33.3%;
+  margin: 0 !important;
+}
+.invoice-pay {
+  display: none;
+}
