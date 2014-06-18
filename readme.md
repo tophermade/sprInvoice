@@ -12,7 +12,7 @@ Simply edit the content as needed for your invoice. There are three (3) main cla
 A template example exists for all three cases.
 
 ### Versions
-There are 3 versions: one using LESS, one Sass, and one vanilla CSS. Other than preprocessors, or lack there of, the versions are identical.
+There are 2 versions: one using LESS and one vanilla CSS. Other than the preprocessor, or lack there of, the versions are identical.
 
 #### License
 Use under Public License, MIT, or GPLv2
